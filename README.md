@@ -7,7 +7,7 @@ Register on [Eventbrite](http://opendatahackshop.eventbrite.com).
 ## Evening of Friday, September 11 
 - 6:00 pm - Welcome Dinner & Networking 
 - 6:30 pm - Introductions to Event Organizers and Data Experts 
-- 6:45 pm - What's Possible with Census Data? with Kelly Karres and Ryan Dolan, Data Dissemination Specialists at U.S. Census Bureau (Announce prizes for best use of Census data)
+- 6:45 pm - What's Possible with Census Data? with Kelly Karres and Ryan Dolan, Data Dissemination Specialists at U.S. Census Bureau 
 - 7:00 pm - Problem Pitching - What Problem do you want to Solve? 
 - 7:30 pm - Team Formation 
 - 8:00 pm - Getting Started with Waffle & GitHub 
