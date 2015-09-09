@@ -39,7 +39,6 @@ Sound interesting? Head over to [Eventbrite](http://opendatahackshop.eventbrite.
 - 2:30 pm - Team Sprint 5 (pitch building)
 - 3:30 pm - Pitches Begin 
 - 4:00 pm - Judging & Prizes 
-- 
 
 
 
