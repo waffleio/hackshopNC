@@ -4,9 +4,9 @@
 
 # Event Information
 
-Join us for the first ever Hackshop-- part hackathon, part workshop. This 2 day event will focus on building apps and businesses using open data. Data experts from Census and CitySDK will be on site to help identify relevant data sets that can help inform the best way to build your app or business. 
+Join us for the first ever Hackshop-- part hackathon, part lean workshop. This 2 day event will focus on building apps and businesses using open data. Data experts from Census and CitySDK will be on site to help identify relevant data sets that can help inform the best way to build your app or business. While teams work to deliver a Minimum Viable Product/prototype, they will have the unique opportunity to interact with mentors and advisors from the community to get early feedback.
 
-While teams work to deliver a Minimum Viable Product/prototype, they will have the unique opportunity to interact with mentors and advisors from the community to get early feedback.
+Throughout the course of the event, teams will be guided through a lightweight framework guided by Hackshop organizers that instills principles of running lean and maximizing limited resources using elements of agile and lean startup principles. Teams will learn best practices for delivering a product from idea to prototype in less than 24 hours.
 
 Teams can come prepared with their current projects or as individuals looking to pair up with others to tackle hard problems.
 
@@ -39,5 +39,10 @@ Sound interesting? Head over to [Eventbrite](http://opendatahackshop.eventbrite.
 - 2:30 pm - Team Sprint 5 (pitch building)
 - 3:30 pm - Pitches Begin 
 - 4:00 pm - Judging & Prizes 
+- 
+
+
+
+
 
 
