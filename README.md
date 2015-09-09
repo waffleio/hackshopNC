@@ -10,7 +10,7 @@ While teams work to deliver a Minimum Viable Product/prototype, they will have t
 
 Teams can come prepared with their current projects or as individuals looking to pair up with others to tackle hard problems.
 
-Sound interesting? Head over to[Eventbrite](http://opendatahackshop.eventbrite.com) to save your spot!
+Sound interesting? Head over to [Eventbrite](http://opendatahackshop.eventbrite.com) to save your spot!
 
 # Schedule
 
