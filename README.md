@@ -14,7 +14,7 @@ Sound interesting? Head over to [Eventbrite](http://opendatahackshop.eventbrite.
 
 # Schedule
 
-Friday, September 11 
+## Friday, September 11 
 - 6:00 pm - Welcome Dinner & Networking 
 - 6:15 pm - Introductions to Event Organizers and Data Experts 
 - 6:30 pm - What's Possible with Census Data? with Kelly Karres and Ryan Dolan, Data Dissemination Specialists at U.S. Census Bureau
