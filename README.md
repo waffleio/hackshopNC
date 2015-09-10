@@ -1,4 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/waffleio/hackshopNC.png?label=ready&title=Ready)](https://waffle.io/waffleio/hackshopNC)&nbsp;&nbsp;[![Join the chat at https://gitter.im/waffleio/hackshopNC](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/waffleio/hackshopNC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/waffleio/hackshopNC](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/waffleio/hackshopNC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <img width="600" alt="hackshop" src="https://cloud.githubusercontent.com/assets/100216/9767932/b98234e0-56ee-11e5-9ffd-cce14f31caf6.png">
 
@@ -40,6 +40,7 @@ Sound interesting? Head over to [Eventbrite](http://opendatahackshop.eventbrite.
 - 3:30 pm - Pitches Begin 
 - 4:00 pm - Judging & Prizes 
 
+![Stories in Ready](https://badge.waffle.io/waffleio/hackshopNC.png?label=ready&title=Ready)](https://waffle.io/waffleio/hackshopNC)&nbsp;&nbsp;
 
 
 
