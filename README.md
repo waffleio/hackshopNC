@@ -1,7 +1,7 @@
 [![Join the chat at https://gitter.im/waffleio/hackshopNC](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/waffleio/hackshopNC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <img width="600" alt="hackshop" src="https://cloud.githubusercontent.com/assets/100216/9801425/fe527632-57e0-11e5-989d-dee3c6112881.png">
-<img width="600" alt="hackshop" src="https://cloud.githubusercontent.com/assets/100216/9801337/75e35816-57e0-11e5-8cab-3d2ef3a8f750.png">
+<img width="650" alt="hackshop" src="https://cloud.githubusercontent.com/assets/100216/9801337/75e35816-57e0-11e5-8cab-3d2ef3a8f750.png">
 
 
 # Event Information
