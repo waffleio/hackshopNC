@@ -40,7 +40,7 @@ Sound interesting? Head over to [Eventbrite](http://opendatahackshop.eventbrite.
 - 3:30 pm - Pitches Begin 
 - 4:00 pm - Judging & Prizes 
 
-![Stories in Ready](https://badge.waffle.io/waffleio/hackshopNC.png?label=ready&title=Ready)](https://waffle.io/waffleio/hackshopNC)
+[![Stories in Ready](https://badge.waffle.io/waffleio/hackshopNC.png?label=ready&title=Ready)](https://waffle.io/waffleio/hackshopNC)
 
 
 
