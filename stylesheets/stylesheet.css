@@ -366,6 +366,21 @@ Full-Width Styles
   background: #212121;
 }
 
+.people-profiles img {
+  border-radius: 50%;
+  width: 160px;
+}
+
+.people-profiles h4 {
+  font-size: 18px;
+  margin: 2px 0;
+}
+
+.people-profiles p {
+  margin: 0;
+  font-size: 14px;
+}
+
 
 
 /*******************************************************************************
